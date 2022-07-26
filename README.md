@@ -21,12 +21,6 @@ View [all components here](https://www.creative-tim.com/learning-lab/bootstrap/a
 Each element is well presented in a very complex documentation.
 You can read more about the <a href="https://www.creative-tim.com/learning-lab/bootstrap/overview/soft-ui-dashboard" target="_blank">documentation here</a>.
 
-**Example Pages**
-
-If you want to get inspiration or just show something directly to your clients,
-you can jump start your development with our pre-built example pages. You will be able
-to quickly set up the basic structure for your web project.
-View <a href="https://demos.creative-tim.com/soft-ui-dashboard/pages/dashboard.html" target="_blank">example pages here</a>.
 
 **HELPFUL LINKS**
 
